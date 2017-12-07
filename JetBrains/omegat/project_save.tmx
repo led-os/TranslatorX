@@ -2158,6 +2158,14 @@
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>&amp;Unload &gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>卸载(&amp;U) &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>&amp;Unmark All</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -4152,6 +4160,22 @@ Use ; (分号) 来分隔资源模式;
       </tuv>
       <tuv lang="ZH-CN">
         <seg>: 是预期的</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt; &amp;Load</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt; 加载(&amp;L)</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>&lt; Load All</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>&lt; 加载全部</seg>
       </tuv>
     </tu>
     <tu>
@@ -13819,6 +13843,14 @@ and replace them with usages of {2} where possible.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Cannot create SDK</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>无法创建 SDK</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Cannot create a field watchpoint for ''{0}.{1}''.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -14181,6 +14213,14 @@ All mentioned modules will be treated as Unknown modules.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>无法获取远程文档：内部错误</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Cannot find JDK classes in ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>无法在 ''{0}'' 中找到 JDK 类</seg>
       </tuv>
     </tu>
     <tu>
@@ -15741,6 +15781,14 @@ Method {0} is not static</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>更改的文件</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Changed lines//</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>更改的行//</seg>
       </tuv>
     </tu>
     <tu>
@@ -22287,6 +22335,14 @@ is located below existing content root "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Create abstract method ''{0}'' in ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 ''{1}'' 中创建抽象方法 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Create changelist on failed commit:</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -22315,6 +22371,14 @@ is located below existing content root "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>创建常量字段 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create constant field ''{0}'' in ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 ''{1}'' 中创建常量字段 ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -22371,6 +22435,14 @@ is located below existing content root "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>创建字段 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create field ''{0}'' in ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 ''{1}'' 中创建字段 ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -22491,6 +22563,14 @@ is located below existing content root "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>创建方法 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Create method ''{0}'' in ''{1}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>在 ''{1}'' 中创建方法 ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -27869,6 +27949,38 @@ with covariant return type?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Editor//Guides//Hard wrap guide</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>编辑器//指导//硬换行指导</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor//Guides//Indent guide</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>编辑器//指导//缩进指导</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor//Guides//Indent guide selected</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>编辑器//指导//所选缩进指导</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor//Guides//Visual guides</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>编辑器//指导//可视化指导</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Editor//Gutter background</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -27905,6 +28017,22 @@ with covariant return type?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>编辑器//选中项前景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor//Separator line above</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>编辑器//分隔线上方</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Editor//Separator line below</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>编辑器//分隔线下方</seg>
       </tuv>
     </tu>
     <tu>
@@ -29501,6 +29629,14 @@ Plugins were not loaded.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Errors and Warnings//Deprecated symbol marked for removal</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>错误和警告//弃用的符号标记为移除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Errors and Warnings//Duplicate from server</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -29665,6 +29801,22 @@ Plugins were not loaded.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>计算选中表达式</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evaluated expression text</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>计算的表达式的文本</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Evaluated expression text for execution line</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>执行行的计算表达式文本</seg>
       </tuv>
     </tu>
     <tu>
@@ -29963,6 +30115,14 @@ Exception message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>递归排除</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Exclude files:</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>排除文件：</seg>
       </tuv>
     </tu>
     <tu>
@@ -33556,6 +33716,14 @@ Do you want overwrite it or to append?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Fix throws list</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>修复 throws 列表</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Fix…</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -33688,6 +33856,30 @@ Do you want overwrite it or to append?</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>折叠选择块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folded unchanged fragments//Background</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>折叠的未更改片断//背景</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folded unchanged fragments//Bottom border</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>折叠的未更改片断//底部边界</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Folded unchanged fragments//Top border</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>折叠的未更改片断//顶部边界</seg>
       </tuv>
     </tu>
     <tu>
@@ -37022,6 +37214,14 @@ Compilation will proceed without clearing output directories.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>If a loaded module depends on an unloaded module it may lead to compilations errors.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果一个加载的模块依赖于卸载的模块可能会导致编译错误。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>If a method signature has been changed, &amp;productName; highlights the tags that ran out of sync with the documentation comment and suggests a quick fix:</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -37130,6 +37330,14 @@ Compilation will proceed without clearing output directories.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>如果该命名空间还未申明，则会自动生成声明。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>If the selected {0, choice, 1#module|2#modules} become unloaded it may cause compilations errors in the dependent modules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>如果所选模块成为卸载的，它可能在依赖它的模块中导致编译错误。</seg>
       </tuv>
     </tu>
     <tu>
@@ -39056,6 +39264,14 @@ please fill in your JetBrains Account login and password.</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Inline parameter hint (highlighted)</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>内联参数提示（高亮的）</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Inline parameter is not supported when method is a part of inheritance hierarchy</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -39196,6 +39412,14 @@ please fill in your JetBrains Account login and password.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>为断点行内联值</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Inlined values for execution line</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>执行行的内联值</seg>
       </tuv>
     </tu>
     <tu>
@@ -39342,6 +39566,14 @@ in class ''{1}''</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>插入 ''.{0}'' 以调用 functional 接口方法</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Insert ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>插入 ''{0}''</seg>
       </tuv>
     </tu>
     <tu>
@@ -43056,6 +43288,14 @@ Cannot generate JavaDoc</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load All Required Modules</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>加载所有必需的模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Load File</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -43068,6 +43308,22 @@ Cannot generate JavaDoc</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>从 JBuilder 项目加载模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load Required Modules</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>加载所需模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Load Selected Modules Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>只加载所选模块</seg>
       </tuv>
     </tu>
     <tu>
@@ -43088,10 +43344,26 @@ Cannot generate JavaDoc</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Load/Unload Modules</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>加载/卸载模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Loaded classes are up to date.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>加载的类是最新的。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Loaded modules</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>加载的模块</seg>
       </tuv>
     </tu>
     <tu>
@@ -47652,6 +47924,14 @@ must not contain source root "{1}".</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Navigate to previous declared variable ''{0}''</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>导航到之前的变量声明 ''{0}''</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Navigate to the declaration of a class that the current class extends or implements</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -47776,6 +48056,14 @@ must not contain source root "{1}".</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>导航到选中类的测试</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Navigate to variable declaration</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>导航到变量声明</seg>
       </tuv>
     </tu>
     <tu>
@@ -53644,6 +53932,14 @@ be marked as source paths.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>弹出窗口和提示//问题提示</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Popups and Hints//Tooltip</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>弹出窗口和提示//工具提示</seg>
       </tuv>
     </tu>
     <tu>
@@ -70425,6 +70721,14 @@ Please update modules configuration</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>The info about unloaded modules is not shared through version control, so your teammates' project configurations won't be affected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>卸载模块的信息不通过版本控制共享，因此您的队友的项目配置不会受到影响。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>The keyboard shortcut &lt;s0&gt;&amp;shortcut:CheckinProject;&lt;/s0&gt; enables you to quickly invoke the &lt;s1&gt;Commit Changes&lt;/s1&gt; dialog.</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -70869,6 +71173,14 @@ Please update modules configuration</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>选择的名称将在编辑器中自动输入，并在后面加上所输入的符号。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>The selected {0, choice, 1#module depends|2#modules depend} on {1, choice, 1#module ''''{2}'''' which is|2#{1} modules which are} currently unloaded.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>所选模块依赖的{1, choice, 1#模块 ''''{2}'''' |2#{1} 模块} 当前是卸载的。</seg>
       </tuv>
     </tu>
     <tu>
@@ -74433,6 +74745,54 @@ Error message: {1}</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>Unload All &gt;</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>卸载全部 &gt;</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unload All Dependent Modules</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>卸载所有依赖它的模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unload Dependent Modules</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>卸载依赖它的模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unload Selected Modules Only</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>只卸载所选模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unloaded modules</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>卸载的模块</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>Unloading modules makes the IDE faster: search, refactoring and compilation skip unloaded modules.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>卸载模块使 IDE 更快：搜索，重构和编译跳过卸载的模块。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>Unlock</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -77413,6 +77773,14 @@ Error message: {1}</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>欢迎来到 &lt;s0&gt;&amp;productName;&lt;/s0&gt; 生产力指南</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>What do you want?</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>你要怎么做？</seg>
       </tuv>
     </tu>
     <tu>
@@ -88759,6 +89127,14 @@ Do you want to review them?</seg>
     </tu>
     <tu>
       <tuv lang="EN-US">
+        <seg>{0} {1, choice, 1#framework is|2#frameworks are} detected.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>{0} 个框架检测到。</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
         <seg>{0} {1} facets</seg>
       </tuv>
       <tuv lang="ZH-CN">
@@ -89045,6 +89421,14 @@ does not exist.</seg>
       </tuv>
       <tuv lang="ZH-CN">
         <seg>{1, choice, 0#无冲突|1#1 冲突|2#{0, number} 冲突}</seg>
+      </tuv>
+    </tu>
+    <tu>
+      <tuv lang="EN-US">
+        <seg>{1, choice, 1#Module ''''{2}'''' depends|2#{1} modules depend} on the selected {0, choice, 1#module|2#modules}.</seg>
+      </tuv>
+      <tuv lang="ZH-CN">
+        <seg>{1, choice, 1#模块 ''''{2}'''' |2#{1} 个模块}依赖于所选模块。</seg>
       </tuv>
     </tu>
     <tu>
